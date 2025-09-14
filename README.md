@@ -1,6 +1,6 @@
 wow data. such numbers... 
 
-# How to run the scripts... (make sure git clone first)
+# How to run the script... (make sure to git clone first)
 `cd 'c: users\your_directory'`
 
 `pip install requests`
