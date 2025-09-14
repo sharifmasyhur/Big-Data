@@ -3,6 +3,8 @@
 The growing number of vehicles in urban areas presents significant challenges for traffic management. Modern cities require effective monitoring systems to reduce congestion, improve safety, and support efficient public mobility. One increasingly used approach is the use of Big Data from traffic sensors that can record vehicle movements in real time.
 Big Data itself has key characteristics known as the 3Vs: Volume, Velocity, and Variety. These three aspects are the basis for determining whether a dataset can be categorized as Big Data. The 3Vs of Big Data—volume, velocity, and variety—represent the three key characteristics that distinguish big data from traditional data types. These attributes highlight the differences between big data and conventional data sets, as well as the requirements for managing them effectively.
 
+Source of dataset: https://data.gov.au/data/dataset/cjkg-rvmu
+
 # How to run the script... (make sure to git clone first)
 `cd 'c: users\your_directory'`
 
